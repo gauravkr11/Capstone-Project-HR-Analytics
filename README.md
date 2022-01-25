@@ -10,11 +10,3 @@ Human resources (HR) is the division of an organization that is responsible for 
 
 This management is the strategic approach to the efficient management of people in any organization in a way that can help their business gain a competitive advantage. It is designed to improve employee performance in service of an employer's strategic objectives.
 
-Understanding the Problem Statement
-
-In this project, you will have to put yourself in the shoes of an HR analytics expert and by leveraging the data provided, you are supposed to identify how salary is varying with respect to other considerable factors.
-
-The dataset should be divided into test and train and you would have to use the training data to build the model and thereby apply it to test data to measure the performance and robustness of the model.
-How are you contributing to the organization
-Based on your inputs the hiring manager would understand how different features considered are affecting the salary component. This analysis can greatly help in making huge structural changes to the financial wing of the HR department.
-
